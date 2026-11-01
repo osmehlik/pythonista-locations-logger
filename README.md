@@ -30,5 +30,5 @@ locations.geojson file to where
 you want to use it. Maybe
 you can manually convert it
 to gpx file format and then
-try to upload it to your favorite
-GPS device or online service.
+try to load it into your favorite
+application.
