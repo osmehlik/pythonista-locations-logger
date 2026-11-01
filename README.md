@@ -1,7 +1,7 @@
 # pythonista-locations-logger
 A script for Pythonista iOS app
 to save named GPS locations
-in GeoJSON file.
+as GeoJSON.
 
 ## Installation
 
